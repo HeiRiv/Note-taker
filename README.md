@@ -16,7 +16,7 @@ On this challenge we created an application called "Note Taker" that can be used
  
 😄 Please see below a quick view of the deployed application 😄 
 
-
+<img width="1440" alt="Screen Shot 2023-06-29 at 6 38 24 PM" src="https://github.com/HeiRiv/Note-taker/assets/128196586/dd38798d-afc5-444a-8c5f-c80c54f401ee">
 
 This is the link for the webiste: 
 
