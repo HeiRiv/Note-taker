@@ -1,20 +1,15 @@
 # Note-taker 📝
 
 ## Description
-On this challenge we created a logo-maker that takes in user input to generate a logo and save it as an SVG file,it allows the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
-
+On this challenge we created an application called "Note Taker" that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Achievements
-- Cretaed a command-line application that accepts user input
--User is prompted for text
--User can enter up to three characters
--User is presented with a list of shapes to choose from: circle, triangle, and square
--User can choose for the shape's color
--User can enter input for all the prompts
--An SVG file is created named `logo.svg`
--The output text "Generated logo.svg" is printed in the command line
--The file `logo.svg` could be open in a browser
--A image shown an image that matches the criteria I entered
+-User is presented with a landing page with a link to a notes page
+-User will click on the link to the notes page
+-User will be presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+-User will be able to enter a new note title and the note’s text
+-The new note the user had entered is saved and appears in the left-hand column with the other existing notes
+
 
 ## Final Product
 
@@ -29,5 +24,5 @@ This is the link for the webiste:
 
 Awesome documents used for better understanding to develop the challenge,
 
-- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
-- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
+-
+-
